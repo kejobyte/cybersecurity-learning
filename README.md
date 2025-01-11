@@ -1,6 +1,8 @@
 # cybersecurity-learning
 Progress over Perfection
 
+--------------------------
+
 📌 What I'm learning
 - CyberSec Basics
 
